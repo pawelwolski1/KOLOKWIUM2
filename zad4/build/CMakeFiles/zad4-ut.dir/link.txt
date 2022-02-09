@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/zad4-ut.dir/src/libtest.cpp.o  -o zad4-ut 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/zad4.dir/src/Student.cpp.o  -o zad4 

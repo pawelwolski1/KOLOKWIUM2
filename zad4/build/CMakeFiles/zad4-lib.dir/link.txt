@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzad4-lib.a  CMakeFiles/zad4-lib.dir/src/libtest.cpp.o CMakeFiles/zad4-lib.dir/src/Student.cpp.o
+/usr/bin/ranlib libzad4-lib.a

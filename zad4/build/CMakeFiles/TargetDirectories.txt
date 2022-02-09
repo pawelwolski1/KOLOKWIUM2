@@ -1,0 +1,5 @@
+/home/paw/Desktop/zad4/build/CMakeFiles/edit_cache.dir
+/home/paw/Desktop/zad4/build/CMakeFiles/zad4-ut.dir
+/home/paw/Desktop/zad4/build/CMakeFiles/zad4.dir
+/home/paw/Desktop/zad4/build/CMakeFiles/rebuild_cache.dir
+/home/paw/Desktop/zad4/build/CMakeFiles/zad4-lib.dir
