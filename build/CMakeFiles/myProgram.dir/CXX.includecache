@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paw/Desktop/zad2/address.cpp
+string
+-
+
+/home/paw/Desktop/zad2/address.h
+stdio.h
+-
+
+/home/paw/Desktop/zad2/employee.cpp
+address.h
+/home/paw/Desktop/zad2/address.h
+
+/home/paw/Desktop/zad2/employee.h
+
+/home/paw/Desktop/zad2/main.cpp
+employee.h
+/home/paw/Desktop/zad2/employee.h
+address.h
+/home/paw/Desktop/zad2/address.h
+
